@@ -19,7 +19,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: uptime.sps-platforma.online
   # baseUrl: /your-repo-name
-  logoUrl: https://nocodb.sps-platforma.ru/dltemp/WVzKV8A9WngBql7X/1718130600000/noco/p099ku0xuk0jzav/mp1blc7pa2w6t5k/cy05am8m3ybnioe/pray%20(4)_lZw0D.png
+  logoUrl: https://stage.sps-platforma.ru/logo.png
   name: Upptime SPS-Platforma
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
