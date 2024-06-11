@@ -6,9 +6,11 @@ sites:
   - name: SPS-Prod
     url: https://sps-platforma.ru/api/ping
     maxResponseTime: 2000
+    delay: 2000
   - name: SPS-Stage
     url: https://stage.sps-platforma.ru/api/ping
-    maxResponseTime: 2000    
+    maxResponseTime: 2000
+    delay: 2000
   - name: Noco
     url: https://nocodb.sps-platforma.ru
     maxResponseTime: 2000
