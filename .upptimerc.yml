@@ -4,10 +4,10 @@ repo: sps-platforma-uptime # The name of this repository
 
 sites:
   - name: SPS-Prod
-    url: https://sps-platforma.ru
+    url: https://sps-platforma.ru/api/ping
     maxResponseTime: 2000
   - name: SPS-Stage
-    url: https://stage.sps-platforma.ru
+    url: https://stage.sps-platforma.ru/api/ping
     maxResponseTime: 2000    
   - name: Noco
     url: https://nocodb.sps-platforma.ru
