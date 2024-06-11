@@ -5,11 +5,13 @@ repo: sps-platforma-uptime # The name of this repository
 sites:
   - name: SPS-Prod
     url: https://sps-platforma.ru
+    maxResponseTime: 2000
   - name: SPS-Stage
     url: https://stage.sps-platforma.ru
+    maxResponseTime: 2000    
   - name: Noco
     url: https://nocodb.sps-platforma.ru
-
+    maxResponseTime: 2000
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
