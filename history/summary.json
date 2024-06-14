@@ -22,19 +22,19 @@
     "url": "https://stage.sps-platforma.ru/api/ping",
     "icon": "https://icons.duckduckgo.com/ip3/stage.sps-platforma.ru.ico",
     "slug": "sps-stage",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 889,
-    "timeDay": 693,
-    "timeWeek": 889,
-    "timeMonth": 889,
-    "timeYear": 889,
+    "status": "degraded",
+    "uptime": "99.75%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
+    "time": 1151,
+    "timeDay": 1981,
+    "timeWeek": 1151,
+    "timeMonth": 1151,
+    "timeYear": 1151,
     "dailyMinutesDown": {
-      "2024-06-14": 0
+      "2024-06-14": 12
     }
   },
   {
