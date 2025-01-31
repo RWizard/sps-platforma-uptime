@@ -1,7 +1,7 @@
 url: https://stage.sps-platforma.ru/api/ping
-status: up
-code: 200
-responseTime: 216
-lastUpdated: 2025-01-31T15:16:17.006Z
+status: down
+code: 502
+responseTime: 1063
+lastUpdated: 2025-01-31T19:52:56.856Z
 startTime: 2024-06-11T16:27:47.044Z
 generator: Upptime <https://github.com/upptime/upptime>
