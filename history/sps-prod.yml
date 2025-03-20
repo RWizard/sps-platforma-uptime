@@ -1,7 +1,7 @@
 url: https://sps-platforma.ru/api/ping
-status: down
-code: 502
-responseTime: 1329
-lastUpdated: 2025-03-20T23:09:04.496Z
+status: up
+code: 200
+responseTime: 1093
+lastUpdated: 2025-03-20T23:27:24.433Z
 startTime: 2024-06-11T16:27:45.695Z
 generator: Upptime <https://github.com/upptime/upptime>
