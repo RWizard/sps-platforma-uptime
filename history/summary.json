@@ -4,10 +4,10 @@
     "url": "https://sps-platforma.ru/api/ping",
     "icon": "https://icons.duckduckgo.com/ip3/sps-platforma.ru.ico",
     "slug": "sps-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "99.34%",
-    "uptimeDay": "59.74%",
-    "uptimeWeek": "68.24%",
+    "uptimeDay": "60.39%",
+    "uptimeWeek": "68.22%",
     "uptimeMonth": "92.69%",
     "uptimeYear": "99.20%",
     "time": 1074,
@@ -16,7 +16,7 @@
     "timeMonth": 910,
     "timeYear": 1112,
     "dailyMinutesDown": {
-      "2025-08-25": 471,
+      "2025-08-25": 472,
       "2025-08-24": 717,
       "2025-08-23": 492,
       "2025-08-22": 430,
@@ -42,8 +42,7 @@
       "2025-02-26": 96,
       "2025-02-25": 5,
       "2025-02-22": 19,
-      "2025-02-20": 54,
-      "2025-02-19": 23
+      "2025-02-20": 54
     }
   },
   {
@@ -51,19 +50,19 @@
     "url": "https://stage.sps-platforma.ru/api/ping",
     "icon": "https://icons.duckduckgo.com/ip3/stage.sps-platforma.ru.ico",
     "slug": "sps-stage",
-    "status": "up",
-    "uptime": "99.31%",
-    "uptimeDay": "62.81%",
-    "uptimeWeek": "69.11%",
+    "status": "down",
+    "uptime": "99.32%",
+    "uptimeDay": "63.50%",
+    "uptimeWeek": "69.10%",
     "uptimeMonth": "92.89%",
-    "uptimeYear": "99.17%",
+    "uptimeYear": "99.18%",
     "time": 1044,
     "timeDay": 1015,
     "timeWeek": 920,
     "timeMonth": 932,
     "timeYear": 1046,
     "dailyMinutesDown": {
-      "2025-08-25": 429,
+      "2025-08-25": 430,
       "2025-08-24": 711,
       "2025-08-23": 471,
       "2025-08-22": 423,
@@ -89,8 +88,7 @@
       "2025-01-23": 17,
       "2025-01-14": 49,
       "2025-01-10": 101,
-      "2024-12-19": 26,
-      "2024-12-13": 36
+      "2024-12-19": 26
     }
   },
   {
@@ -99,10 +97,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/nocodb.sps-platforma.ru.ico",
     "slug": "noco",
     "status": "down",
-    "uptime": "96.56%",
+    "uptime": "96.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "53.68%",
+    "uptimeMonth": "53.65%",
     "uptimeYear": "95.89%",
     "time": 1486,
     "timeDay": 2778,
@@ -110,7 +108,7 @@
     "timeMonth": 1672,
     "timeYear": 1534,
     "dailyMinutesDown": {
-      "2025-08-25": 1303,
+      "2025-08-25": 1314,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
       "2025-08-22": 1440,
