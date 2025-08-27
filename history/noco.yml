@@ -1,7 +1,7 @@
 url: https://nocodb.sps-platforma.ru
-status: down
+status: degraded
 code: 502
-responseTime: 1483
-lastUpdated: 2025-08-26T23:07:57.947Z
+responseTime: 5243
+lastUpdated: 2025-08-27T21:46:54.462Z
 startTime: 2024-06-11T16:27:48.337Z
 generator: Upptime <https://github.com/upptime/upptime>
