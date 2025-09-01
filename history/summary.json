@@ -6,9 +6,9 @@
     "slug": "sps-prod",
     "status": "up",
     "uptime": "99.41%",
-    "uptimeDay": "85.60%",
-    "uptimeWeek": "69.57%",
-    "uptimeMonth": "91.37%",
+    "uptimeDay": "86.20%",
+    "uptimeWeek": "70.16%",
+    "uptimeMonth": "91.33%",
     "uptimeYear": "99.28%",
     "time": 1058,
     "timeDay": 987,
@@ -16,7 +16,7 @@
     "timeMonth": 934,
     "timeYear": 1087,
     "dailyMinutesDown": {
-      "2025-08-31": 208,
+      "2025-08-31": 199,
       "2025-08-30": 365,
       "2025-08-29": 440,
       "2025-08-28": 579,
@@ -24,7 +24,7 @@
       "2025-08-26": 409,
       "2025-08-25": 510,
       "2025-08-24": 717,
-      "2025-08-23": 3
+      "2025-08-23": 30
     }
   },
   {
@@ -34,17 +34,17 @@
     "slug": "sps-stage",
     "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "85.79%",
-    "uptimeWeek": "70.35%",
-    "uptimeMonth": "91.51%",
+    "uptimeDay": "86.36%",
+    "uptimeWeek": "70.94%",
+    "uptimeMonth": "91.47%",
     "uptimeYear": "99.29%",
     "time": 1029,
     "timeDay": 1003,
-    "timeWeek": 959,
+    "timeWeek": 958,
     "timeMonth": 938,
     "timeYear": 1030,
     "dailyMinutesDown": {
-      "2025-08-31": 204,
+      "2025-08-31": 196,
       "2025-08-30": 361,
       "2025-08-29": 432,
       "2025-08-28": 571,
@@ -52,7 +52,7 @@
       "2025-08-26": 404,
       "2025-08-25": 468,
       "2025-08-24": 711,
-      "2025-08-23": 30
+      "2025-08-23": 53
     }
   },
   {
@@ -61,18 +61,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nocodb.sps-platforma.ru.ico",
     "slug": "noco",
     "status": "down",
-    "uptime": "95.24%",
+    "uptime": "95.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "33.66%",
-    "uptimeYear": "94.22%",
+    "uptimeMonth": "33.48%",
+    "uptimeYear": "94.21%",
     "time": 1502,
     "timeDay": 876,
     "timeWeek": 2868,
     "timeMonth": 1890,
     "timeYear": 1558,
     "dailyMinutesDown": {
-      "2025-08-31": 1432,
+      "2025-09-01": 72,
+      "2025-08-31": 1440,
       "2025-08-30": 1440,
       "2025-08-29": 1440,
       "2025-08-28": 1440,
