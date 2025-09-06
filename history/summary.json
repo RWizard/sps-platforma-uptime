@@ -4,11 +4,11 @@
     "url": "https://sps-platforma.ru/api/ping",
     "icon": "https://icons.duckduckgo.com/ip3/sps-platforma.ru.ico",
     "slug": "sps-prod",
-    "status": "up",
-    "uptime": "99.48%",
-    "uptimeDay": "79.88%",
-    "uptimeWeek": "75.96%",
-    "uptimeMonth": "92.33%",
+    "status": "down",
+    "uptime": "99.49%",
+    "uptimeDay": "79.81%",
+    "uptimeWeek": "76.14%",
+    "uptimeMonth": "92.37%",
     "uptimeYear": "99.36%",
     "time": 1045,
     "timeDay": 1025,
@@ -16,7 +16,7 @@
     "timeMonth": 932,
     "timeYear": 1069,
     "dailyMinutesDown": {
-      "2025-09-06": 130,
+      "2025-09-06": 131,
       "2025-09-05": 385,
       "2025-09-04": 303,
       "2025-09-03": 319,
@@ -25,7 +25,7 @@
       "2025-08-31": 199,
       "2025-08-30": 365,
       "2025-08-29": 440,
-      "2025-08-28": 404
+      "2025-08-28": 386
     }
   },
   {
@@ -33,11 +33,11 @@
     "url": "https://stage.sps-platforma.ru/api/ping",
     "icon": "https://icons.duckduckgo.com/ip3/stage.sps-platforma.ru.ico",
     "slug": "sps-stage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "80.18%",
-    "uptimeWeek": "76.28%",
-    "uptimeMonth": "92.44%",
+    "uptimeDay": "80.14%",
+    "uptimeWeek": "76.46%",
+    "uptimeMonth": "92.47%",
     "uptimeYear": "99.37%",
     "time": 1016,
     "timeDay": 971,
@@ -45,7 +45,7 @@
     "timeMonth": 932,
     "timeYear": 1016,
     "dailyMinutesDown": {
-      "2025-09-06": 129,
+      "2025-09-06": 130,
       "2025-09-05": 382,
       "2025-09-04": 296,
       "2025-09-03": 317,
@@ -54,7 +54,7 @@
       "2025-08-31": 196,
       "2025-08-30": 361,
       "2025-08-29": 432,
-      "2025-08-28": 395
+      "2025-08-28": 378
     }
   },
   {
@@ -63,18 +63,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nocodb.sps-platforma.ru.ico",
     "slug": "noco",
     "status": "down",
-    "uptime": "94.12%",
+    "uptime": "94.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "16.22%",
-    "uptimeYear": "92.77%",
+    "uptimeMonth": "16.14%",
+    "uptimeYear": "92.76%",
     "time": 1516,
     "timeDay": 0,
     "timeWeek": 2220,
     "timeMonth": 2050,
     "timeYear": 1579,
     "dailyMinutesDown": {
-      "2025-09-06": 433,
+      "2025-09-06": 467,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
