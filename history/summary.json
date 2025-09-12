@@ -4,19 +4,19 @@
     "url": "https://sps-platforma.ru/api/ping",
     "icon": "https://icons.duckduckgo.com/ip3/sps-platforma.ru.ico",
     "slug": "sps-prod",
-    "status": "up",
-    "uptime": "99.46%",
-    "uptimeDay": "65.23%",
-    "uptimeWeek": "70.87%",
-    "uptimeMonth": "91.84%",
-    "uptimeYear": "99.32%",
+    "status": "down",
+    "uptime": "99.47%",
+    "uptimeDay": "65.16%",
+    "uptimeWeek": "70.86%",
+    "uptimeMonth": "91.97%",
+    "uptimeYear": "99.33%",
     "time": 1028,
     "timeDay": 906,
     "timeWeek": 923,
     "timeMonth": 924,
     "timeYear": 1048,
     "dailyMinutesDown": {
-      "2025-09-12": 261,
+      "2025-09-12": 262,
       "2025-09-11": 364,
       "2025-09-10": 345,
       "2025-09-09": 519,
@@ -25,7 +25,7 @@
       "2025-09-06": 470,
       "2025-09-05": 385,
       "2025-09-04": 303,
-      "2025-09-03": 73
+      "2025-09-03": 16
     }
   },
   {
@@ -33,19 +33,19 @@
     "url": "https://stage.sps-platforma.ru/api/ping",
     "icon": "https://icons.duckduckgo.com/ip3/stage.sps-platforma.ru.ico",
     "slug": "sps-stage",
-    "status": "up",
-    "uptime": "99.45%",
-    "uptimeDay": "66.66%",
+    "status": "down",
+    "uptime": "99.46%",
+    "uptimeDay": "66.61%",
     "uptimeWeek": "71.69%",
-    "uptimeMonth": "91.73%",
-    "uptimeYear": "99.31%",
+    "uptimeMonth": "91.84%",
+    "uptimeYear": "99.32%",
     "time": 1003,
     "timeDay": 818,
-    "timeWeek": 916,
+    "timeWeek": 917,
     "timeMonth": 924,
     "timeYear": 1001,
     "dailyMinutesDown": {
-      "2025-09-12": 245,
+      "2025-09-12": 246,
       "2025-09-11": 357,
       "2025-09-10": 341,
       "2025-09-09": 517,
@@ -54,7 +54,7 @@
       "2025-09-06": 445,
       "2025-09-05": 382,
       "2025-09-04": 296,
-      "2025-09-03": 211
+      "2025-09-03": 163
     }
   },
   {
@@ -74,7 +74,7 @@
     "timeMonth": 2630,
     "timeYear": 1681,
     "dailyMinutesDown": {
-      "2025-09-12": 533,
+      "2025-09-12": 552,
       "2025-09-11": 1440,
       "2025-09-10": 1440,
       "2025-09-09": 1440,
