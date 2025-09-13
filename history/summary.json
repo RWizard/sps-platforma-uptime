@@ -4,19 +4,19 @@
     "url": "https://sps-platforma.ru/api/ping",
     "icon": "https://icons.duckduckgo.com/ip3/sps-platforma.ru.ico",
     "slug": "sps-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "70.20%",
-    "uptimeWeek": "69.64%",
-    "uptimeMonth": "92.12%",
-    "uptimeYear": "99.34%",
+    "uptimeDay": "70.12%",
+    "uptimeWeek": "69.63%",
+    "uptimeMonth": "92.21%",
+    "uptimeYear": "99.35%",
     "time": 1026,
     "timeDay": 997,
     "timeWeek": 910,
     "timeMonth": 925,
     "timeYear": 1046,
     "dailyMinutesDown": {
-      "2025-09-13": 282,
+      "2025-09-13": 283,
       "2025-09-12": 456,
       "2025-09-11": 364,
       "2025-09-10": 345,
@@ -24,7 +24,7 @@
       "2025-09-08": 475,
       "2025-09-07": 381,
       "2025-09-06": 470,
-      "2025-09-05": 159
+      "2025-09-05": 122
     }
   },
   {
@@ -32,19 +32,19 @@
     "url": "https://stage.sps-platforma.ru/api/ping",
     "icon": "https://icons.duckduckgo.com/ip3/stage.sps-platforma.ru.ico",
     "slug": "sps-stage",
-    "status": "up",
-    "uptime": "99.47%",
-    "uptimeDay": "70.66%",
-    "uptimeWeek": "70.33%",
-    "uptimeMonth": "91.99%",
-    "uptimeYear": "99.33%",
+    "status": "down",
+    "uptime": "99.48%",
+    "uptimeDay": "70.61%",
+    "uptimeWeek": "70.32%",
+    "uptimeMonth": "92.13%",
+    "uptimeYear": "99.34%",
     "time": 1001,
     "timeDay": 966,
     "timeWeek": 909,
     "timeMonth": 924,
     "timeYear": 1000,
     "dailyMinutesDown": {
-      "2025-09-13": 278,
+      "2025-09-13": 279,
       "2025-09-12": 435,
       "2025-09-11": 357,
       "2025-09-10": 341,
@@ -52,7 +52,7 @@
       "2025-09-08": 453,
       "2025-09-07": 376,
       "2025-09-06": 445,
-      "2025-09-05": 309
+      "2025-09-05": 244
     }
   },
   {
@@ -72,7 +72,7 @@
     "timeMonth": 2639,
     "timeYear": 1687,
     "dailyMinutesDown": {
-      "2025-09-13": 705,
+      "2025-09-13": 715,
       "2025-09-12": 1440,
       "2025-09-11": 1440,
       "2025-09-10": 1440,
