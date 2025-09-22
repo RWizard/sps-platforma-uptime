@@ -4,19 +4,19 @@
     "url": "https://sps-platforma.ru/api/ping",
     "icon": "https://icons.duckduckgo.com/ip3/sps-platforma.ru.ico",
     "slug": "sps-prod",
-    "status": "up",
-    "uptime": "99.49%",
-    "uptimeDay": "62.46%",
-    "uptimeWeek": "71.00%",
-    "uptimeMonth": "92.08%",
-    "uptimeYear": "99.34%",
+    "status": "down",
+    "uptime": "99.50%",
+    "uptimeDay": "63.09%",
+    "uptimeWeek": "71.06%",
+    "uptimeMonth": "92.32%",
+    "uptimeYear": "99.36%",
     "time": 1000,
-    "timeDay": 824,
+    "timeDay": 810,
     "timeWeek": 863,
     "timeMonth": 904,
     "timeYear": 1015,
     "dailyMinutesDown": {
-      "2025-09-22": 460,
+      "2025-09-22": 461,
       "2025-09-21": 512,
       "2025-09-20": 404,
       "2025-09-19": 265,
@@ -24,7 +24,7 @@
       "2025-09-17": 387,
       "2025-09-16": 389,
       "2025-09-15": 469,
-      "2025-09-14": 145
+      "2025-09-14": 41
     }
   },
   {
@@ -32,19 +32,19 @@
     "url": "https://stage.sps-platforma.ru/api/ping",
     "icon": "https://icons.duckduckgo.com/ip3/stage.sps-platforma.ru.ico",
     "slug": "sps-stage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "68.54%",
-    "uptimeWeek": "72.70%",
-    "uptimeMonth": "92.27%",
+    "uptimeDay": "69.19%",
+    "uptimeWeek": "72.77%",
+    "uptimeMonth": "92.33%",
     "uptimeYear": "99.36%",
     "time": 979,
-    "timeDay": 835,
+    "timeDay": 816,
     "timeWeek": 872,
     "timeMonth": 904,
     "timeYear": 976,
     "dailyMinutesDown": {
-      "2025-09-22": 414,
+      "2025-09-22": 415,
       "2025-09-21": 456,
       "2025-09-20": 382,
       "2025-09-19": 247,
@@ -52,7 +52,7 @@
       "2025-09-17": 383,
       "2025-09-16": 367,
       "2025-09-15": 461,
-      "2025-09-14": 240
+      "2025-09-14": 214
     }
   },
   {
@@ -72,7 +72,7 @@
     "timeMonth": 3244,
     "timeYear": 1842,
     "dailyMinutesDown": {
-      "2025-09-22": 1233,
+      "2025-09-22": 1246,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
       "2025-09-19": 1440,
