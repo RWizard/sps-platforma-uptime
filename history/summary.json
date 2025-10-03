@@ -6,9 +6,9 @@
     "slug": "sps-prod",
     "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "78.48%",
-    "uptimeWeek": "74.30%",
-    "uptimeMonth": "92.98%",
+    "uptimeDay": "79.07%",
+    "uptimeWeek": "74.38%",
+    "uptimeMonth": "92.89%",
     "uptimeYear": "99.41%",
     "time": 1002,
     "timeDay": 965,
@@ -16,7 +16,7 @@
     "timeMonth": 937,
     "timeYear": 1014,
     "dailyMinutesDown": {
-      "2025-10-02": 309,
+      "2025-10-02": 301,
       "2025-10-01": 294,
       "2025-09-30": 426,
       "2025-09-29": 535,
@@ -24,7 +24,7 @@
       "2025-09-27": 278,
       "2025-09-26": 381,
       "2025-09-25": 346,
-      "2025-09-24": 139
+      "2025-09-24": 187
     }
   },
   {
@@ -33,10 +33,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/stage.sps-platforma.ru.ico",
     "slug": "sps-stage",
     "status": "up",
-    "uptime": "99.56%",
-    "uptimeDay": "78.78%",
-    "uptimeWeek": "74.68%",
-    "uptimeMonth": "93.08%",
+    "uptime": "99.55%",
+    "uptimeDay": "79.33%",
+    "uptimeWeek": "74.76%",
+    "uptimeMonth": "92.99%",
     "uptimeYear": "99.42%",
     "time": 975,
     "timeDay": 912,
@@ -44,7 +44,7 @@
     "timeMonth": 916,
     "timeYear": 974,
     "dailyMinutesDown": {
-      "2025-10-02": 307,
+      "2025-10-02": 299,
       "2025-10-01": 288,
       "2025-09-30": 420,
       "2025-09-29": 526,
@@ -52,7 +52,7 @@
       "2025-09-27": 274,
       "2025-09-26": 372,
       "2025-09-25": 343,
-      "2025-09-24": 136
+      "2025-09-24": 184
     }
   },
   {
@@ -61,18 +61,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nocodb.sps-platforma.ru.ico",
     "slug": "noco",
     "status": "down",
-    "uptime": "88.87%",
+    "uptime": "88.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "85.45%",
+    "uptimeYear": "85.44%",
     "time": 1775,
     "timeDay": 3829,
     "timeWeek": 3136,
     "timeMonth": 3316,
     "timeYear": 1917,
     "dailyMinutesDown": {
-      "2025-10-02": 1439,
+      "2025-10-03": 59,
+      "2025-10-02": 1440,
       "2025-10-01": 1440,
       "2025-09-30": 1440,
       "2025-09-29": 1440,
