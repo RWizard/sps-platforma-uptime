@@ -4,19 +4,19 @@
     "url": "https://sps-platforma.ru/api/ping",
     "icon": "https://icons.duckduckgo.com/ip3/sps-platforma.ru.ico",
     "slug": "sps-prod",
-    "status": "up",
-    "uptime": "99.53%",
-    "uptimeDay": "73.97%",
-    "uptimeWeek": "74.64%",
-    "uptimeMonth": "92.64%",
-    "uptimeYear": "99.39%",
-    "time": 1003,
+    "status": "down",
+    "uptime": "99.54%",
+    "uptimeDay": "74.44%",
+    "uptimeWeek": "74.74%",
+    "uptimeMonth": "92.76%",
+    "uptimeYear": "99.40%",
+    "time": 1004,
     "timeDay": 1012,
     "timeWeek": 1023,
     "timeMonth": 940,
     "timeYear": 1015,
     "dailyMinutesDown": {
-      "2025-10-04": 221,
+      "2025-10-04": 222,
       "2025-10-03": 254,
       "2025-10-02": 301,
       "2025-10-01": 294,
@@ -25,7 +25,7 @@
       "2025-09-28": 371,
       "2025-09-27": 278,
       "2025-09-26": 381,
-      "2025-09-25": 166
+      "2025-09-25": 110
     }
   },
   {
@@ -33,19 +33,19 @@
     "url": "https://stage.sps-platforma.ru/api/ping",
     "icon": "https://icons.duckduckgo.com/ip3/stage.sps-platforma.ru.ico",
     "slug": "sps-stage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "75.69%",
-    "uptimeWeek": "75.20%",
-    "uptimeMonth": "92.75%",
+    "uptimeDay": "75.65%",
+    "uptimeWeek": "75.30%",
+    "uptimeMonth": "92.79%",
     "uptimeYear": "99.40%",
-    "time": 966,
+    "time": 976,
     "timeDay": 962,
     "timeWeek": 945,
     "timeMonth": 917,
     "timeYear": 974,
     "dailyMinutesDown": {
-      "2025-10-04": 220,
+      "2025-10-04": 221,
       "2025-10-03": 231,
       "2025-10-02": 299,
       "2025-10-01": 288,
@@ -54,7 +54,7 @@
       "2025-09-28": 363,
       "2025-09-27": 274,
       "2025-09-26": 372,
-      "2025-09-25": 181
+      "2025-09-25": 165
     }
   },
   {
@@ -74,7 +74,7 @@
     "timeMonth": 3327,
     "timeYear": 1916,
     "dailyMinutesDown": {
-      "2025-10-04": 567,
+      "2025-10-04": 578,
       "2025-10-03": 1440,
       "2025-10-02": 1440,
       "2025-10-01": 1440,
