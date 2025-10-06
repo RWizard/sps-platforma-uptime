@@ -4,19 +4,19 @@
     "url": "https://sps-platforma.ru/api/ping",
     "icon": "https://icons.duckduckgo.com/ip3/sps-platforma.ru.ico",
     "slug": "sps-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "80.69%",
-    "uptimeWeek": "76.55%",
-    "uptimeMonth": "92.72%",
-    "uptimeYear": "99.39%",
+    "uptimeDay": "80.61%",
+    "uptimeWeek": "76.53%",
+    "uptimeMonth": "92.76%",
+    "uptimeYear": "99.40%",
     "time": 1001,
     "timeDay": 923,
     "timeWeek": 1004,
     "timeMonth": 936,
     "timeYear": 1013,
     "dailyMinutesDown": {
-      "2025-10-06": 161,
+      "2025-10-06": 162,
       "2025-10-05": 329,
       "2025-10-04": 390,
       "2025-10-03": 254,
@@ -25,7 +25,7 @@
       "2025-09-30": 426,
       "2025-09-29": 535,
       "2025-09-28": 371,
-      "2025-09-27": 129
+      "2025-09-27": 111
     }
   },
   {
@@ -33,11 +33,11 @@
     "url": "https://stage.sps-platforma.ru/api/ping",
     "icon": "https://icons.duckduckgo.com/ip3/stage.sps-platforma.ru.ico",
     "slug": "sps-stage",
-    "status": "up",
-    "uptime": "99.54%",
-    "uptimeDay": "83.10%",
-    "uptimeWeek": "77.40%",
-    "uptimeMonth": "92.75%",
+    "status": "down",
+    "uptime": "99.55%",
+    "uptimeDay": "83.05%",
+    "uptimeWeek": "77.39%",
+    "uptimeMonth": "92.83%",
     "uptimeYear": "99.40%",
     "time": 962,
     "timeDay": 888,
@@ -45,7 +45,7 @@
     "timeMonth": 916,
     "timeYear": 973,
     "dailyMinutesDown": {
-      "2025-10-06": 143,
+      "2025-10-06": 144,
       "2025-10-05": 312,
       "2025-10-04": 385,
       "2025-10-03": 231,
@@ -54,7 +54,7 @@
       "2025-09-30": 420,
       "2025-09-29": 526,
       "2025-09-28": 363,
-      "2025-09-27": 211
+      "2025-09-27": 172
     }
   },
   {
@@ -67,14 +67,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "84.47%",
+    "uptimeYear": "84.46%",
     "time": 1777,
     "timeDay": 0,
     "timeWeek": 3092,
     "timeMonth": 3306,
     "timeYear": 1922,
     "dailyMinutesDown": {
-      "2025-10-06": 863,
+      "2025-10-06": 882,
       "2025-10-05": 1440,
       "2025-10-04": 1440,
       "2025-10-03": 1440,
