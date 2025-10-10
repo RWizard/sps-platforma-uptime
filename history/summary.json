@@ -4,19 +4,19 @@
     "url": "https://sps-platforma.ru/api/ping",
     "icon": "https://icons.duckduckgo.com/ip3/sps-platforma.ru.ico",
     "slug": "sps-prod",
-    "status": "up",
-    "uptime": "99.54%",
-    "uptimeDay": "84.52%",
-    "uptimeWeek": "77.20%",
-    "uptimeMonth": "92.71%",
-    "uptimeYear": "99.39%",
+    "status": "down",
+    "uptime": "99.55%",
+    "uptimeDay": "84.53%",
+    "uptimeWeek": "77.33%",
+    "uptimeMonth": "92.75%",
+    "uptimeYear": "99.40%",
     "time": 999,
     "timeDay": 776,
     "timeWeek": 905,
     "timeMonth": 929,
     "timeYear": 1005,
     "dailyMinutesDown": {
-      "2025-10-10": 144,
+      "2025-10-10": 145,
       "2025-10-09": 344,
       "2025-10-08": 346,
       "2025-10-07": 423,
@@ -26,7 +26,7 @@
       "2025-10-03": 254,
       "2025-10-02": 301,
       "2025-10-01": 294,
-      "2025-09-30": 121
+      "2025-09-30": 100
     }
   },
   {
@@ -34,19 +34,19 @@
     "url": "https://stage.sps-platforma.ru/api/ping",
     "icon": "https://icons.duckduckgo.com/ip3/stage.sps-platforma.ru.ico",
     "slug": "sps-stage",
-    "status": "up",
-    "uptime": "99.54%",
-    "uptimeDay": "84.78%",
-    "uptimeWeek": "78.28%",
-    "uptimeMonth": "92.73%",
-    "uptimeYear": "99.39%",
+    "status": "down",
+    "uptime": "99.55%",
+    "uptimeDay": "84.79%",
+    "uptimeWeek": "78.42%",
+    "uptimeMonth": "92.78%",
+    "uptimeYear": "99.40%",
     "time": 968,
     "timeDay": 809,
     "timeWeek": 873,
     "timeMonth": 901,
     "timeYear": 964,
     "dailyMinutesDown": {
-      "2025-10-10": 144,
+      "2025-10-10": 145,
       "2025-10-09": 326,
       "2025-10-08": 309,
       "2025-10-07": 419,
@@ -56,7 +56,7 @@
       "2025-10-03": 231,
       "2025-10-02": 299,
       "2025-10-01": 288,
-      "2025-09-30": 253
+      "2025-09-30": 232
     }
   },
   {
@@ -76,7 +76,7 @@
     "timeMonth": 3125,
     "timeYear": 1963,
     "dailyMinutesDown": {
-      "2025-10-10": 924,
+      "2025-10-10": 939,
       "2025-10-09": 1440,
       "2025-10-08": 1440,
       "2025-10-07": 1440,
