@@ -4,11 +4,11 @@
     "url": "https://sps-platforma.ru/api/ping",
     "icon": "https://icons.duckduckgo.com/ip3/sps-platforma.ru.ico",
     "slug": "sps-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "72.28%",
-    "uptimeWeek": "76.77%",
-    "uptimeMonth": "92.06%",
+    "uptimeDay": "72.20%",
+    "uptimeWeek": "76.76%",
+    "uptimeMonth": "92.10%",
     "uptimeYear": "99.34%",
     "time": 988,
     "timeDay": 960,
@@ -16,7 +16,7 @@
     "timeMonth": 919,
     "timeYear": 992,
     "dailyMinutesDown": {
-      "2025-10-16": 131,
+      "2025-10-16": 132,
       "2025-10-15": 494,
       "2025-10-14": 455,
       "2025-10-13": 485,
@@ -26,7 +26,7 @@
       "2025-10-09": 344,
       "2025-10-08": 346,
       "2025-10-07": 423,
-      "2025-10-06": 200
+      "2025-10-06": 182
     }
   },
   {
@@ -34,19 +34,19 @@
     "url": "https://stage.sps-platforma.ru/api/ping",
     "icon": "https://icons.duckduckgo.com/ip3/stage.sps-platforma.ru.ico",
     "slug": "sps-stage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "73.65%",
-    "uptimeWeek": "77.39%",
-    "uptimeMonth": "92.02%",
-    "uptimeYear": "99.33%",
+    "uptimeDay": "73.60%",
+    "uptimeWeek": "77.38%",
+    "uptimeMonth": "92.06%",
+    "uptimeYear": "99.34%",
     "time": 959,
     "timeDay": 913,
     "timeWeek": 830,
     "timeMonth": 894,
     "timeYear": 954,
     "dailyMinutesDown": {
-      "2025-10-16": 131,
+      "2025-10-16": 132,
       "2025-10-15": 475,
       "2025-10-14": 446,
       "2025-10-13": 478,
@@ -57,7 +57,7 @@
       "2025-10-08": 309,
       "2025-10-07": 419,
       "2025-10-06": 223,
-      "2025-10-05": 101
+      "2025-10-05": 84
     }
   },
   {
@@ -70,14 +70,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "81.83%",
+    "uptimeYear": "81.82%",
     "time": 1865,
     "timeDay": 953,
     "timeWeek": 3155,
     "timeMonth": 3264,
     "timeYear": 2003,
     "dailyMinutesDown": {
-      "2025-10-16": 335,
+      "2025-10-16": 356,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
       "2025-10-13": 1440,
