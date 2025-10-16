@@ -4,11 +4,11 @@
     "url": "https://sps-platforma.ru/api/ping",
     "icon": "https://icons.duckduckgo.com/ip3/sps-platforma.ru.ico",
     "slug": "sps-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "72.76%",
-    "uptimeWeek": "76.12%",
-    "uptimeMonth": "91.95%",
+    "uptimeDay": "72.69%",
+    "uptimeWeek": "76.11%",
+    "uptimeMonth": "91.99%",
     "uptimeYear": "99.33%",
     "time": 990,
     "timeDay": 931,
@@ -16,7 +16,7 @@
     "timeMonth": 922,
     "timeYear": 992,
     "dailyMinutesDown": {
-      "2025-10-16": 297,
+      "2025-10-16": 298,
       "2025-10-15": 494,
       "2025-10-14": 455,
       "2025-10-13": 485,
@@ -26,7 +26,7 @@
       "2025-10-09": 344,
       "2025-10-08": 346,
       "2025-10-07": 423,
-      "2025-10-06": 82
+      "2025-10-06": 62
     }
   },
   {
@@ -34,19 +34,19 @@
     "url": "https://stage.sps-platforma.ru/api/ping",
     "icon": "https://icons.duckduckgo.com/ip3/stage.sps-platforma.ru.ico",
     "slug": "sps-stage",
-    "status": "up",
-    "uptime": "99.50%",
-    "uptimeDay": "74.15%",
-    "uptimeWeek": "76.74%",
-    "uptimeMonth": "91.91%",
+    "status": "down",
+    "uptime": "99.51%",
+    "uptimeDay": "74.09%",
+    "uptimeWeek": "76.73%",
+    "uptimeMonth": "92.01%",
     "uptimeYear": "99.33%",
-    "time": 958,
+    "time": 955,
     "timeDay": 914,
     "timeWeek": 836,
     "timeMonth": 895,
     "timeYear": 954,
     "dailyMinutesDown": {
-      "2025-10-16": 280,
+      "2025-10-16": 281,
       "2025-10-15": 475,
       "2025-10-14": 446,
       "2025-10-13": 478,
@@ -56,7 +56,7 @@
       "2025-10-09": 326,
       "2025-10-08": 309,
       "2025-10-07": 419,
-      "2025-10-06": 223
+      "2025-10-06": 180
     }
   },
   {
@@ -65,7 +65,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nocodb.sps-platforma.ru.ico",
     "slug": "noco",
     "status": "down",
-    "uptime": "86.41%",
+    "uptime": "86.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -76,7 +76,7 @@
     "timeMonth": 3264,
     "timeYear": 2003,
     "dailyMinutesDown": {
-      "2025-10-16": 875,
+      "2025-10-16": 900,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
       "2025-10-13": 1440,
