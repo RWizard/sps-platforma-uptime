@@ -4,11 +4,11 @@
     "url": "https://sps-platforma.ru/api/ping",
     "icon": "https://icons.duckduckgo.com/ip3/sps-platforma.ru.ico",
     "slug": "sps-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "62.85%",
-    "uptimeWeek": "73.50%",
-    "uptimeMonth": "91.93%",
+    "uptimeDay": "64.31%",
+    "uptimeWeek": "73.70%",
+    "uptimeMonth": "91.98%",
     "uptimeYear": "99.33%",
     "time": 975,
     "timeDay": 803,
@@ -16,7 +16,7 @@
     "timeMonth": 912,
     "timeYear": 982,
     "dailyMinutesDown": {
-      "2025-10-26": 171,
+      "2025-10-26": 172,
       "2025-10-25": 509,
       "2025-10-24": 377,
       "2025-10-23": 405,
@@ -26,7 +26,7 @@
       "2025-10-19": 235,
       "2025-10-18": 286,
       "2025-10-17": 314,
-      "2025-10-16": 202
+      "2025-10-16": 179
     }
   },
   {
@@ -34,19 +34,19 @@
     "url": "https://stage.sps-platforma.ru/api/ping",
     "icon": "https://icons.duckduckgo.com/ip3/stage.sps-platforma.ru.ico",
     "slug": "sps-stage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "63.25%",
-    "uptimeWeek": "74.38%",
-    "uptimeMonth": "91.87%",
-    "uptimeYear": "99.32%",
+    "uptimeDay": "64.74%",
+    "uptimeWeek": "74.59%",
+    "uptimeMonth": "91.99%",
+    "uptimeYear": "99.33%",
     "time": 942,
     "timeDay": 987,
     "timeWeek": 891,
     "timeMonth": 886,
     "timeYear": 947,
     "dailyMinutesDown": {
-      "2025-10-26": 169,
+      "2025-10-26": 170,
       "2025-10-25": 502,
       "2025-10-24": 358,
       "2025-10-23": 402,
@@ -56,7 +56,7 @@
       "2025-10-19": 230,
       "2025-10-18": 281,
       "2025-10-17": 308,
-      "2025-10-16": 326
+      "2025-10-16": 276
     }
   },
   {
@@ -69,14 +69,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "79.08%",
+    "uptimeYear": "79.07%",
     "time": 1903,
     "timeDay": 1828,
     "timeWeek": 2218,
     "timeMonth": 2803,
     "timeYear": 2027,
     "dailyMinutesDown": {
-      "2025-10-26": 387,
+      "2025-10-26": 409,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
