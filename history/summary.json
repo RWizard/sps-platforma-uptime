@@ -4,19 +4,19 @@
     "url": "https://sps-platforma.ru/api/ping",
     "icon": "https://icons.duckduckgo.com/ip3/sps-platforma.ru.ico",
     "slug": "sps-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "67.60%",
-    "uptimeWeek": "71.49%",
-    "uptimeMonth": "91.38%",
-    "uptimeYear": "99.28%",
+    "uptimeDay": "67.52%",
+    "uptimeWeek": "71.51%",
+    "uptimeMonth": "91.53%",
+    "uptimeYear": "99.29%",
     "time": 968,
     "timeDay": 964,
     "timeWeek": 893,
     "timeMonth": 876,
     "timeYear": 974,
     "dailyMinutesDown": {
-      "2025-11-03": 226,
+      "2025-11-03": 227,
       "2025-11-02": 589,
       "2025-11-01": 341,
       "2025-10-31": 333,
@@ -25,7 +25,7 @@
       "2025-10-28": 414,
       "2025-10-27": 433,
       "2025-10-26": 499,
-      "2025-10-25": 276
+      "2025-10-25": 210
     }
   },
   {
@@ -33,11 +33,11 @@
     "url": "https://stage.sps-platforma.ru/api/ping",
     "icon": "https://icons.duckduckgo.com/ip3/stage.sps-platforma.ru.ico",
     "slug": "sps-stage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "67.96%",
-    "uptimeWeek": "71.99%",
-    "uptimeMonth": "91.44%",
+    "uptimeDay": "67.90%",
+    "uptimeWeek": "72.01%",
+    "uptimeMonth": "91.52%",
     "uptimeYear": "99.29%",
     "time": 940,
     "timeDay": 903,
@@ -45,7 +45,7 @@
     "timeMonth": 876,
     "timeYear": 943,
     "dailyMinutesDown": {
-      "2025-11-03": 224,
+      "2025-11-03": 225,
       "2025-11-02": 586,
       "2025-11-01": 337,
       "2025-10-31": 328,
@@ -54,7 +54,7 @@
       "2025-10-28": 409,
       "2025-10-27": 413,
       "2025-10-26": 471,
-      "2025-10-25": 326
+      "2025-10-25": 288
     }
   },
   {
@@ -67,14 +67,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "76.84%",
+    "uptimeYear": "76.83%",
     "time": 1873,
     "timeDay": 928,
     "timeWeek": 1919,
     "timeMonth": 2727,
     "timeYear": 2063,
     "dailyMinutesDown": {
-      "2025-11-03": 649,
+      "2025-11-03": 660,
       "2025-11-02": 1440,
       "2025-11-01": 1440,
       "2025-10-31": 1440,
