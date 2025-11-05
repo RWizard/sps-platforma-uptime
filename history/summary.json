@@ -4,19 +4,19 @@
     "url": "https://sps-platforma.ru/api/ping",
     "icon": "https://icons.duckduckgo.com/ip3/sps-platforma.ru.ico",
     "slug": "sps-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "60.51%",
-    "uptimeWeek": "69.59%",
-    "uptimeMonth": "91.26%",
-    "uptimeYear": "99.27%",
-    "time": 975,
+    "uptimeDay": "61.53%",
+    "uptimeWeek": "69.69%",
+    "uptimeMonth": "91.33%",
+    "uptimeYear": "99.28%",
+    "time": 967,
     "timeDay": 917,
-    "timeWeek": 915,
-    "timeMonth": 870,
+    "timeWeek": 917,
+    "timeMonth": 871,
     "timeYear": 973,
     "dailyMinutesDown": {
-      "2025-11-05": 414,
+      "2025-11-05": 415,
       "2025-11-04": 520,
       "2025-11-03": 463,
       "2025-11-02": 589,
@@ -25,7 +25,7 @@
       "2025-10-30": 379,
       "2025-10-29": 285,
       "2025-10-28": 414,
-      "2025-10-27": 91
+      "2025-10-27": 60
     }
   },
   {
@@ -33,19 +33,19 @@
     "url": "https://stage.sps-platforma.ru/api/ping",
     "icon": "https://icons.duckduckgo.com/ip3/stage.sps-platforma.ru.ico",
     "slug": "sps-stage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "62.10%",
-    "uptimeWeek": "70.10%",
-    "uptimeMonth": "91.37%",
+    "uptimeDay": "63.12%",
+    "uptimeWeek": "70.20%",
+    "uptimeMonth": "91.40%",
     "uptimeYear": "99.28%",
     "time": 938,
     "timeDay": 923,
-    "timeWeek": 918,
-    "timeMonth": 871,
+    "timeWeek": 917,
+    "timeMonth": 872,
     "timeYear": 943,
     "dailyMinutesDown": {
-      "2025-11-05": 392,
+      "2025-11-05": 393,
       "2025-11-04": 513,
       "2025-11-03": 458,
       "2025-11-02": 586,
@@ -54,7 +54,7 @@
       "2025-10-30": 375,
       "2025-10-29": 278,
       "2025-10-28": 409,
-      "2025-10-27": 105
+      "2025-10-27": 90
     }
   },
   {
@@ -74,7 +74,7 @@
     "timeMonth": 2741,
     "timeYear": 2073,
     "dailyMinutesDown": {
-      "2025-11-05": 1047,
+      "2025-11-05": 1071,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
       "2025-11-02": 1440,
