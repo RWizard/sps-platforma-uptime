@@ -4,19 +4,19 @@
     "url": "https://sps-platforma.ru/api/ping",
     "icon": "https://icons.duckduckgo.com/ip3/sps-platforma.ru.ico",
     "slug": "sps-prod",
-    "status": "up",
-    "uptime": "99.47%",
-    "uptimeDay": "69.13%",
-    "uptimeWeek": "69.27%",
-    "uptimeMonth": "91.08%",
-    "uptimeYear": "99.26%",
+    "status": "down",
+    "uptime": "99.48%",
+    "uptimeDay": "69.05%",
+    "uptimeWeek": "69.25%",
+    "uptimeMonth": "91.29%",
+    "uptimeYear": "99.27%",
     "time": 968,
     "timeDay": 918,
     "timeWeek": 916,
     "timeMonth": 870,
     "timeYear": 973,
     "dailyMinutesDown": {
-      "2025-11-06": 96,
+      "2025-11-06": 97,
       "2025-11-05": 475,
       "2025-11-04": 520,
       "2025-11-03": 463,
@@ -25,8 +25,7 @@
       "2025-10-31": 333,
       "2025-10-30": 379,
       "2025-10-29": 285,
-      "2025-10-28": 414,
-      "2025-10-27": 13
+      "2025-10-28": 334
     }
   },
   {
@@ -34,19 +33,19 @@
     "url": "https://stage.sps-platforma.ru/api/ping",
     "icon": "https://icons.duckduckgo.com/ip3/stage.sps-platforma.ru.ico",
     "slug": "sps-stage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "70.59%",
-    "uptimeWeek": "69.77%",
-    "uptimeMonth": "91.18%",
-    "uptimeYear": "99.26%",
+    "uptimeDay": "70.53%",
+    "uptimeWeek": "69.76%",
+    "uptimeMonth": "91.22%",
+    "uptimeYear": "99.27%",
     "time": 940,
     "timeDay": 967,
     "timeWeek": 921,
     "timeMonth": 872,
     "timeYear": 943,
     "dailyMinutesDown": {
-      "2025-11-06": 95,
+      "2025-11-06": 96,
       "2025-11-05": 453,
       "2025-11-04": 513,
       "2025-11-03": 458,
@@ -56,7 +55,7 @@
       "2025-10-30": 375,
       "2025-10-29": 278,
       "2025-10-28": 409,
-      "2025-10-27": 31
+      "2025-10-27": 12
     }
   },
   {
@@ -76,7 +75,7 @@
     "timeMonth": 2726,
     "timeYear": 2074,
     "dailyMinutesDown": {
-      "2025-11-06": 297,
+      "2025-11-06": 321,
       "2025-11-05": 1440,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
