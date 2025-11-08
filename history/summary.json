@@ -4,11 +4,11 @@
     "url": "https://sps-platforma.ru/api/ping",
     "icon": "https://icons.duckduckgo.com/ip3/sps-platforma.ru.ico",
     "slug": "sps-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "67.18%",
-    "uptimeWeek": "68.23%",
-    "uptimeMonth": "91.14%",
+    "uptimeDay": "67.10%",
+    "uptimeWeek": "68.63%",
+    "uptimeMonth": "91.18%",
     "uptimeYear": "99.26%",
     "time": 973,
     "timeDay": 951,
@@ -16,7 +16,7 @@
     "timeMonth": 874,
     "timeYear": 970,
     "dailyMinutesDown": {
-      "2025-11-08": 357,
+      "2025-11-08": 358,
       "2025-11-07": 314,
       "2025-11-06": 351,
       "2025-11-05": 475,
@@ -25,7 +25,7 @@
       "2025-11-02": 589,
       "2025-11-01": 341,
       "2025-10-31": 333,
-      "2025-10-30": 139
+      "2025-10-30": 119
     }
   },
   {
@@ -33,11 +33,11 @@
     "url": "https://stage.sps-platforma.ru/api/ping",
     "icon": "https://icons.duckduckgo.com/ip3/stage.sps-platforma.ru.ico",
     "slug": "sps-stage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "69.86%",
-    "uptimeWeek": "69.08%",
-    "uptimeMonth": "91.19%",
+    "uptimeDay": "69.81%",
+    "uptimeWeek": "69.48%",
+    "uptimeMonth": "91.23%",
     "uptimeYear": "99.27%",
     "time": 937,
     "timeDay": 901,
@@ -45,7 +45,7 @@
     "timeMonth": 878,
     "timeYear": 940,
     "dailyMinutesDown": {
-      "2025-11-08": 354,
+      "2025-11-08": 355,
       "2025-11-07": 277,
       "2025-11-06": 345,
       "2025-11-05": 453,
@@ -54,7 +54,7 @@
       "2025-11-02": 586,
       "2025-11-01": 337,
       "2025-10-31": 328,
-      "2025-10-30": 210
+      "2025-10-30": 189
     }
   },
   {
@@ -63,18 +63,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nocodb.sps-platforma.ru.ico",
     "slug": "noco",
     "status": "down",
-    "uptime": "82.56%",
+    "uptime": "82.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "75.45%",
+    "uptimeYear": "75.43%",
     "time": 1878,
     "timeDay": 780,
     "timeWeek": 2309,
     "timeMonth": 2703,
     "timeYear": 2072,
     "dailyMinutesDown": {
-      "2025-11-08": 742,
+      "2025-11-08": 819,
       "2025-11-07": 1440,
       "2025-11-06": 1440,
       "2025-11-05": 1440,
