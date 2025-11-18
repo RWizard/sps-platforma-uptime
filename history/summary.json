@@ -4,19 +4,19 @@
     "url": "https://sps-platforma.ru/api/ping",
     "icon": "https://icons.duckduckgo.com/ip3/sps-platforma.ru.ico",
     "slug": "sps-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "71.83%",
-    "uptimeWeek": "69.98%",
-    "uptimeMonth": "91.34%",
+    "uptimeDay": "71.93%",
+    "uptimeWeek": "70.13%",
+    "uptimeMonth": "91.39%",
     "uptimeYear": "99.28%",
     "time": 967,
-    "timeDay": 955,
+    "timeDay": 944,
     "timeWeek": 930,
-    "timeMonth": 905,
+    "timeMonth": 904,
     "timeYear": 967,
     "dailyMinutesDown": {
-      "2025-11-18": 197,
+      "2025-11-18": 198,
       "2025-11-17": 366,
       "2025-11-16": 470,
       "2025-11-15": 417,
@@ -25,7 +25,7 @@
       "2025-11-12": 307,
       "2025-11-11": 566,
       "2025-11-10": 311,
-      "2025-11-09": 200
+      "2025-11-09": 177
     }
   },
   {
@@ -33,19 +33,19 @@
     "url": "https://stage.sps-platforma.ru/api/ping",
     "icon": "https://icons.duckduckgo.com/ip3/stage.sps-platforma.ru.ico",
     "slug": "sps-stage",
-    "status": "up",
-    "uptime": "99.50%",
-    "uptimeDay": "72.18%",
-    "uptimeWeek": "70.36%",
-    "uptimeMonth": "91.43%",
+    "status": "down",
+    "uptime": "99.51%",
+    "uptimeDay": "72.28%",
+    "uptimeWeek": "70.51%",
+    "uptimeMonth": "91.47%",
     "uptimeYear": "99.29%",
     "time": 937,
-    "timeDay": 920,
+    "timeDay": 905,
     "timeWeek": 895,
     "timeMonth": 891,
     "timeYear": 934,
     "dailyMinutesDown": {
-      "2025-11-18": 194,
+      "2025-11-18": 195,
       "2025-11-17": 361,
       "2025-11-16": 459,
       "2025-11-15": 410,
@@ -54,7 +54,7 @@
       "2025-11-12": 303,
       "2025-11-11": 559,
       "2025-11-10": 306,
-      "2025-11-09": 205
+      "2025-11-09": 186
     }
   },
   {
@@ -74,7 +74,7 @@
     "timeMonth": 2406,
     "timeYear": 2066,
     "dailyMinutesDown": {
-      "2025-11-18": 571,
+      "2025-11-18": 587,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
