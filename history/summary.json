@@ -6,17 +6,18 @@
     "slug": "sps-prod",
     "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "62.70%",
-    "uptimeWeek": "66.92%",
-    "uptimeMonth": "91.00%",
+    "uptimeDay": "62.63%",
+    "uptimeWeek": "66.91%",
+    "uptimeMonth": "91.04%",
     "uptimeYear": "99.25%",
     "time": 965,
     "timeDay": 939,
-    "timeWeek": 930,
+    "timeWeek": 925,
     "timeMonth": 907,
     "timeYear": 966,
     "dailyMinutesDown": {
-      "2025-11-20": 536,
+      "2025-11-21": 0,
+      "2025-11-20": 537,
       "2025-11-19": 518,
       "2025-11-18": 385,
       "2025-11-17": 366,
@@ -24,7 +25,7 @@
       "2025-11-15": 417,
       "2025-11-14": 642,
       "2025-11-13": 321,
-      "2025-11-12": 286
+      "2025-11-12": 268
     }
   },
   {
@@ -32,18 +33,19 @@
     "url": "https://stage.sps-platforma.ru/api/ping",
     "icon": "https://icons.duckduckgo.com/ip3/stage.sps-platforma.ru.ico",
     "slug": "sps-stage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "63.16%",
-    "uptimeWeek": "67.46%",
-    "uptimeMonth": "91.10%",
+    "uptimeDay": "63.11%",
+    "uptimeWeek": "67.45%",
+    "uptimeMonth": "91.14%",
     "uptimeYear": "99.26%",
     "time": 935,
     "timeDay": 888,
-    "timeWeek": 901,
+    "timeWeek": 899,
     "timeMonth": 893,
     "timeYear": 932,
     "dailyMinutesDown": {
+      "2025-11-21": 1,
       "2025-11-20": 532,
       "2025-11-19": 517,
       "2025-11-18": 366,
@@ -52,7 +54,7 @@
       "2025-11-15": 410,
       "2025-11-14": 636,
       "2025-11-13": 316,
-      "2025-11-12": 303
+      "2025-11-12": 282
     }
   },
   {
@@ -65,14 +67,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "72.04%",
+    "uptimeYear": "72.03%",
     "time": 1910,
     "timeDay": 684,
     "timeWeek": 2061,
     "timeMonth": 2313,
     "timeYear": 2057,
     "dailyMinutesDown": {
-      "2025-11-20": 1389,
+      "2025-11-21": 1,
+      "2025-11-20": 1440,
       "2025-11-19": 1440,
       "2025-11-18": 1440,
       "2025-11-17": 1440,
@@ -192,8 +195,7 @@
       "2025-01-05": 34,
       "2025-01-04": 96,
       "2024-12-13": 36,
-      "2024-12-03": 33,
-      "2024-11-21": 17
+      "2024-12-03": 33
     }
   }
 ]
