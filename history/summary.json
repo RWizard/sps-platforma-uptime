@@ -4,19 +4,19 @@
     "url": "https://sps-platforma.ru/api/ping",
     "icon": "https://icons.duckduckgo.com/ip3/sps-platforma.ru.ico",
     "slug": "sps-prod",
-    "status": "up",
-    "uptime": "99.50%",
-    "uptimeDay": "70.26%",
-    "uptimeWeek": "68.49%",
-    "uptimeMonth": "91.39%",
-    "uptimeYear": "99.28%",
+    "status": "down",
+    "uptime": "99.51%",
+    "uptimeDay": "70.19%",
+    "uptimeWeek": "68.48%",
+    "uptimeMonth": "91.44%",
+    "uptimeYear": "99.29%",
     "time": 968,
     "timeDay": 953,
     "timeWeek": 922,
     "timeMonth": 908,
     "timeYear": 966,
     "dailyMinutesDown": {
-      "2025-11-22": 191,
+      "2025-11-22": 192,
       "2025-11-21": 443,
       "2025-11-20": 537,
       "2025-11-19": 518,
@@ -24,7 +24,7 @@
       "2025-11-17": 366,
       "2025-11-16": 470,
       "2025-11-15": 417,
-      "2025-11-14": 443
+      "2025-11-14": 420
     }
   },
   {
@@ -32,19 +32,19 @@
     "url": "https://stage.sps-platforma.ru/api/ping",
     "icon": "https://icons.duckduckgo.com/ip3/stage.sps-platforma.ru.ico",
     "slug": "sps-stage",
-    "status": "up",
-    "uptime": "99.49%",
-    "uptimeDay": "70.69%",
+    "status": "down",
+    "uptime": "99.51%",
+    "uptimeDay": "70.63%",
     "uptimeWeek": "69.03%",
-    "uptimeMonth": "91.08%",
-    "uptimeYear": "99.26%",
+    "uptimeMonth": "91.53%",
+    "uptimeYear": "99.29%",
     "time": 937,
     "timeDay": 975,
     "timeWeek": 911,
     "timeMonth": 897,
     "timeYear": 933,
     "dailyMinutesDown": {
-      "2025-11-22": 190,
+      "2025-11-22": 191,
       "2025-11-21": 437,
       "2025-11-20": 532,
       "2025-11-19": 517,
@@ -52,7 +52,7 @@
       "2025-11-17": 361,
       "2025-11-16": 459,
       "2025-11-15": 410,
-      "2025-11-14": 636
+      "2025-11-14": 438
     }
   },
   {
@@ -72,7 +72,7 @@
     "timeMonth": 2286,
     "timeYear": 2057,
     "dailyMinutesDown": {
-      "2025-11-22": 402,
+      "2025-11-22": 415,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
